@@ -1,0 +1,21 @@
+
+
+# Streamlit secrets and credentials
+.streamlit/secrets.toml
+secrets.toml
+.env
+.env.*
+!.env.example
+credentials.json
+service-account*.json
+
+# Python virtual environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# IDE and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
