@@ -1,8 +1,3 @@
- HEAD
-
-# northstar-retail-analytics
-Retail analytics portfolio project featuring Power BI dashboards, Python analytics, anomaly detection, and a Streamlit Business Assistant.
- bb5ea424078fb6b0df44c2df5eb01a0335284c0f
 # Northstar Retail Analytics — BI + Data Assistant
 
 **Version:** 1.0  
